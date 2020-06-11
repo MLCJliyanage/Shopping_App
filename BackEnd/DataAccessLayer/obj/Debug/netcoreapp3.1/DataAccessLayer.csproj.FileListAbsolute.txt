@@ -1,0 +1,8 @@
+D:\Bench Assingment\Project_Repos\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+D:\Bench Assingment\Project_Repos\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\Bench Assingment\Project_Repos\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csprojAssemblyReference.cache
+D:\Bench Assingment\Project_Repos\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Bench Assingment\Project_Repos\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+D:\Bench Assingment\Project_Repos\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.json
+D:\Bench Assingment\Project_Repos\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.dev.json
+D:\Bench Assingment\Project_Repos\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.genruntimeconfig.cache
