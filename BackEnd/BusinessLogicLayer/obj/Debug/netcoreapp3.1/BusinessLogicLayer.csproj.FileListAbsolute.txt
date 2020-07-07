@@ -1,0 +1,12 @@
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\BusinessLogicLayer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.deps.json
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\BusinessLogicLayer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.dll
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\BusinessLogicLayer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.pdb
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\BusinessLogicLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\BusinessLogicLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.csprojAssemblyReference.cache
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.AssemblyInfo.cs
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.csproj.CopyComplete
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.dll
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.pdb

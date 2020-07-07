@@ -6,3 +6,15 @@ D:\Bench Assingment\Project_Repos\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAc
 D:\Bench Assingment\Project_Repos\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.json
 D:\Bench Assingment\Project_Repos\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.dev.json
 D:\Bench Assingment\Project_Repos\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.genruntimeconfig.cache
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.json
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.dev.json
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csprojAssemblyReference.cache
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.genruntimeconfig.cache
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache

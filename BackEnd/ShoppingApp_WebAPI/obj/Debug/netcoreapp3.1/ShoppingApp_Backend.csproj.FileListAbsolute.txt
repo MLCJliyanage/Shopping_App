@@ -115,8 +115,6 @@ D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\bin\Debug\netco
 D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\obj\Debug\netcoreapp3.1\ShoppingApp_Backend.csprojAssemblyReference.cache
 D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\obj\Debug\netcoreapp3.1\ShoppingApp_Backend.AssemblyInfoInputs.cache
 D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\obj\Debug\netcoreapp3.1\ShoppingApp_Backend.AssemblyInfo.cs
-D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\obj\Debug\netcoreapp3.1\ShoppingApp_Backend.csproj.CoreCompileInputs.cache
-D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\obj\Debug\netcoreapp3.1\ShoppingApp_Backend.MvcApplicationPartsAssemblyInfo.cache
 D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\obj\Debug\netcoreapp3.1\ShoppingApp_Backend.RazorTargetAssemblyInfo.cache
 D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\obj\Debug\netcoreapp3.1\ShoppingApp_Backend.csproj.CopyComplete
 D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\ShoppingApp_Backend.StaticWebAssets.Manifest.cache
@@ -124,3 +122,18 @@ D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\obj\Debug\netco
 D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\obj\Debug\netcoreapp3.1\ShoppingApp_Backend.dll
 D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\obj\Debug\netcoreapp3.1\ShoppingApp_Backend.pdb
 D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\obj\Debug\netcoreapp3.1\ShoppingApp_Backend.genruntimeconfig.cache
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\bin\Debug\netcoreapp3.1\BusinessLogicLayer.dll
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\bin\Debug\netcoreapp3.1\BusinessLogicLayer.pdb
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\obj\Debug\netcoreapp3.1\ShoppingApp_Backend.csproj.CoreCompileInputs.cache
+D:\Bench Assingment\Repo\Shopping_App\BackEnd\ShoppingApp_WebAPI\obj\Debug\netcoreapp3.1\ShoppingApp_Backend.MvcApplicationPartsAssemblyInfo.cache

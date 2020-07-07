@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7/WJbt1axMMkX84gCfXB13DHLDYTffsMd1+dsSsbnJ+gaAXGc458/84jRewuUTeRECiJ7enMEhNc4lyBI8sDIg==",
+  "dgSpecHash": "hu2AWJugqhG7tmhncAJYKoKbmpLus7/6cM8hzxzhkXbTKF9DEU/2uQ2+HwPvsjs5zCR79wVqAdmq4U6u2sIwwA==",
   "success": true,
   "projectFilePath": "D:\\Bench Assingment\\Repo\\Shopping_App\\BackEnd\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
@@ -20,8 +20,13 @@
     "C:\\Users\\Chathura Liyanage\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.5\\microsoft.extensions.configuration.3.1.5.nupkg.sha512",
     "C:\\Users\\Chathura Liyanage\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.5\\microsoft.extensions.configuration.abstractions.3.1.5.nupkg.sha512",
     "C:\\Users\\Chathura Liyanage\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.5\\microsoft.extensions.configuration.binder.3.1.5.nupkg.sha512",
+    "C:\\Users\\Chathura Liyanage\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.5\\microsoft.extensions.configuration.fileextensions.3.1.5.nupkg.sha512",
+    "C:\\Users\\Chathura Liyanage\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.5\\microsoft.extensions.configuration.json.3.1.5.nupkg.sha512",
     "C:\\Users\\Chathura Liyanage\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.5\\microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
     "C:\\Users\\Chathura Liyanage\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\Chathura Liyanage\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.5\\microsoft.extensions.fileproviders.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\Chathura Liyanage\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.5\\microsoft.extensions.fileproviders.physical.3.1.5.nupkg.sha512",
+    "C:\\Users\\Chathura Liyanage\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.5\\microsoft.extensions.filesystemglobbing.3.1.5.nupkg.sha512",
     "C:\\Users\\Chathura Liyanage\\.nuget\\packages\\microsoft.extensions.logging\\3.1.5\\microsoft.extensions.logging.3.1.5.nupkg.sha512",
     "C:\\Users\\Chathura Liyanage\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.5\\microsoft.extensions.logging.abstractions.3.1.5.nupkg.sha512",
     "C:\\Users\\Chathura Liyanage\\.nuget\\packages\\microsoft.extensions.options\\3.1.5\\microsoft.extensions.options.3.1.5.nupkg.sha512",
